@@ -7,6 +7,7 @@ city = 'Chennai'
 age = 250
 is_married = True
 skills = ['HTML', 'CSS', 'JS', 'ML', 'Python']
+
 person_info = {
     'firstname':'Resmy', 
     'lastname':'Vijay', 
